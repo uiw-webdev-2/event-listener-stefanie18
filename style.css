@@ -1,0 +1,18 @@
+#container {
+    width: 1000px;
+    height: 1000px;
+    margin: auto;
+    text-align: center;
+}
+.open {
+    width: 1700px;
+    height: 1000px;
+    background: url('closedlaptop.png') no-repeat;
+    margin: auto;
+}
+.closed {
+    width: 1000px;
+    height: 1000px;
+    background : url('openlaptop.jpg') no-repeat;
+    margin: auto;
+}
